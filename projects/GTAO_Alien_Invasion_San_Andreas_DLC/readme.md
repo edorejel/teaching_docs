@@ -1,6 +1,6 @@
 # GTA Online Alien Invasion San Andreas DLC
 
-- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC]()
+- - - __Software Development:__ [GTA Online Alien Invasion San Andreas DLC](https://edorejel.blogspot.com/2023/11/software-development-concept-gta-online_66.html)
     - - __Relevant Concept Research:__ Movie - [Invasion USA starring Chuck Norris](https://en.wikipedia.org/wiki/Invasion_U.S.A._(1985_film))
       - - - - - - - __Movie Trailer:__ [Invasion USA](https://www.youtube.com/watch?v=E7iN5LKcE4A&ab_channel=AverageSuperstarT.V.)
       - __Relevant Concept Research:__ Movie - [Mars Attacks](https://en.wikipedia.org/wiki/Mars_Attacks!)
